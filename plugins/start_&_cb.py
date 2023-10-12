@@ -36,8 +36,8 @@ async def start(client, message):
     button = InlineKeyboardMarkup([[
         InlineKeyboardButton("👨‍💻 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 👨‍💻", callback_data='dev')
         ],[
-        InlineKeyboardButton('📯 𝗨𝗣𝗗𝗔𝗧𝗘𝗦', url='https://t.me/Thunder_X_Moviez'),
-        InlineKeyboardButton('💁‍♂️ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧', url='https://t.me/+z2b3yBUUMf80NWVl')
+        InlineKeyboardButton('📯 𝗨𝗣𝗗𝗔𝗧𝗘𝗦', url='https://t.me/MS_Mihir'),
+        InlineKeyboardButton('💁‍♂️ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧', url='https://t.me/+yGNv4jK-wHkzMTc1')
         ],[
         InlineKeyboardButton('🎛️ 𝗔𝗕𝗢𝗨𝗧', callback_data='about'),
         InlineKeyboardButton('🛠️ 𝗛𝗘𝗟𝗣', callback_data='help')
@@ -58,8 +58,8 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup = InlineKeyboardMarkup([[
                 InlineKeyboardButton("👨‍💻 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 👨‍💻", callback_data='dev')
                 ],[
-                InlineKeyboardButton('📯 𝗨𝗣𝗗𝗔𝗧𝗘𝗦', url='https://t.me/Thunder_X_Moviez'),
-                InlineKeyboardButton('💁‍♂️ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧', url='https://t.me/+z2b3yBUUMf80NWVl')
+                InlineKeyboardButton('📯 𝗨𝗣𝗗𝗔𝗧𝗘𝗦', url='https://t.me/MS_Mihir'),
+                InlineKeyboardButton('💁‍♂️ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧', url='https://t.me/+yGNv4jK-wHkzMTc1')
                 ],[
                 InlineKeyboardButton('🎛️ 𝗔𝗕𝗢𝗨𝗧', callback_data='about'),
                 InlineKeyboardButton('🛠️ 𝗛𝗘𝗟𝗣', callback_data='help')
@@ -71,7 +71,7 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("🔥 𝗠𝗬 𝗘𝗡𝗘𝗥𝗚𝗬 🔥", url="https://t.me/Thunder_X_Moviez")
+                InlineKeyboardButton("🔥 𝗠𝗬 𝗘𝗡𝗘𝗥𝗚𝗬 🔥", url="https://t.me/MS_Mihir")
                 ],[
                 InlineKeyboardButton("🔐 𝗖𝗟𝗢𝗦𝗘 🔐", callback_data = "close"),
                 InlineKeyboardButton("🏡 𝗛𝗢𝗠𝗘 🏡", callback_data = "start")
@@ -83,7 +83,7 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("🔥 𝗠𝗬 𝗘𝗡𝗘𝗥𝗚𝗬 🔥", url="https://t.me/Thunder_X_Moviez")
+                InlineKeyboardButton("🔥 𝗠𝗬 𝗘𝗡𝗘𝗥𝗚𝗬 🔥", url="https://t.me/MS_Mihir")
                 ],[
                 InlineKeyboardButton("🔐 𝗖𝗟𝗢𝗦𝗘 🔐", callback_data = "close"),
                 InlineKeyboardButton("🏡 𝗛𝗢𝗠𝗘 🏡", callback_data = "start")
@@ -95,7 +95,7 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("🔥 𝗠𝗬 𝗘𝗡𝗘𝗥𝗚𝗬 🔥", url="https://t.me/Thunder_X_Moviez")
+                InlineKeyboardButton("🔥 𝗠𝗬 𝗘𝗡𝗘𝗥𝗚𝗬 🔥", url="https://t.me/MS_Mihir")
                 ],[
                 InlineKeyboardButton("🔐 𝗖𝗟𝗢𝗦𝗘 🔐", callback_data = "close"),
                 InlineKeyboardButton("🏡 𝗛𝗢𝗠𝗘 🏡", callback_data = "start")
