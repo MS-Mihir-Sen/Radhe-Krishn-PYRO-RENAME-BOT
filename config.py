@@ -49,13 +49,12 @@ class Config(object):
 class Txt(object):
     # part of text configuration
     START_TXT = """<b>Hᴀɪ {} 👋,
-I am File Rename Bot with custom thumbnail & caption support.
-and rename without download 💯 fully work on TG DC so renaming
-speed is depending on your file dc_id 
-Bot Is Made By @Thunder_X_Moviez 💞</b>"""
+ㅤɪ ᴀᴍ ꜰɪʟᴇ ʀᴇɴᴀᴍᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄᴜꜱᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ & ᴄᴀᴘᴛɪᴏɴ ꜱᴜᴘᴘᴏʀᴛ.ᴀɴᴅ ʀᴇɴᴀᴍᴇ.
+Bot Is Made By @MS_Mihir 💞</b>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
-├🤖 ᴍy ɴᴀᴍᴇ : {}
+├🤖 𝙈𝙔 𝙉𝘼𝙈𝙀 : {}
+├
 ├🖥️ 𝙊𝙒𝙉𝙀𝙍: : <a href=https://t.me/Thunder_X_Moviez>𝙏𝙝𝙪𝙣𝙙𝙚𝙧 ⚡</a>      
 ╰───────────────⍟ </b>"""
 
